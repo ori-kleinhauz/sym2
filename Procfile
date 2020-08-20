@@ -1,1 +1,1 @@
-web: gunicorn sym2.py:app
+web: gunicorn sym2.py
